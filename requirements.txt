@@ -1,0 +1,30 @@
+# Core
+pandas
+numpy
+python-dotenv
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+optuna
+
+# Deep Learning
+tensorflow
+
+# Gen AI
+openai
+langchain
+langchain-openai
+
+# App
+streamlit
+
+# Notebook
+jupyter
+ipykernel
