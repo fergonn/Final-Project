@@ -14,9 +14,6 @@ xgboost
 lightgbm
 optuna
 
-# Deep Learning
-tensorflow
-
 # Gen AI
 openai
 langchain
