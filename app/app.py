@@ -8,9 +8,9 @@ from openai import OpenAI
 
 # ── Setup ──
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
-model = joblib.load('../models/tuned_xgboost.pkl')
-label_encoders = joblib.load('../models/label_encoders.pkl')
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+model = joblib.load('models/tuned_xgboost.pkl')
+label_encoders = joblib.load('models/label_encoders.pkl')
 
 # ── Page Config ──
 st.set_page_config(
