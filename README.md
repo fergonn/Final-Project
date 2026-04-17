@@ -2,7 +2,7 @@
 
 An end-to-end data science project that predicts late delivery risk in global e-commerce supply chains using Machine Learning and generates AI-powered proactive recovery actions using GPT-4o-mini.
 
-🔗 **Live App:** [Supply Chain Risk Predictor](https://https://xcesenzww4daknafc2osn9.streamlit.app/)
+🔗 **Live App:** [Supply Chain Risk Predictor](https://xcesenzww4daknafc2osn9.streamlit.app/)
 
 ---
 
